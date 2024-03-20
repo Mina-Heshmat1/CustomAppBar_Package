@@ -22,8 +22,16 @@ TODO: List what your package can do. Maybe include images, gifs, or videos.
 
 TODO: List prerequisites and provide or point to information on how to
 start using the package.
+## to create Packega used this in cmd 
+
+flutter create --template=package (packega Name )
+
 
 ## Usage
+To implement this Your need add this code to pubspce.ymal
+buttons_package:
+  git:
+    url:https://github.com/Mina-Heshmat1/CustomAppBar_Package
 
 TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder.
